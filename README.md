@@ -3,7 +3,7 @@ Sales Performance Dashboard 📊
 
 > A comprehensive business intelligence dashboard for real-time sales analytics, regional performance tracking, and product-level insights.
 > 
-![Sales Performance Dashboard]([sales_dashboard.png](https://github.com/EliyasN/Sales_Performance_Dashboard-for-Mini-Project-/blob/main/Sales_Performance.PNG))
+![Sales Performance Dashboard](https://github.com/EliyasN/Sales_Performance_Dashboard-for-Mini-Project-/blob/22d5e89699006b80c4f765178ce258814b112d75/Sales_Performance.PNG)
 
 🎯 Overview
 
