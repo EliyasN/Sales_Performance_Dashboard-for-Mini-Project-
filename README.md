@@ -2,8 +2,8 @@
 Sales Performance Dashboard 📊
 
 > A comprehensive business intelligence dashboard for real-time sales analytics, regional performance tracking, and product-level insights.
-
-Preview:Sales_Performance.PNG
+> 
+![Sales Performance Dashboard](sales_dashboard.png)
 
 🎯 Overview
 
