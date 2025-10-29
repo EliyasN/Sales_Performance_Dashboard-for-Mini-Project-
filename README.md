@@ -154,15 +154,3 @@ Eliyas N
 - Community feedback and contributions
 
 
-🗺️ Roadmap
-
-- [ ] Add predictive analytics module
-- [ ] Implement customer segmentation analysis
-- [ ] Mobile-responsive version
-- [ ] Real-time data streaming
-- [ ] AI-powered insights and recommendations
-- [ ] Export to PDF/Excel functionality
-
-
-*Last Updated: October 2025*
-```
