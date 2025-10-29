@@ -3,6 +3,8 @@ Sales Performance Dashboard 📊
 
 > A comprehensive business intelligence dashboard for real-time sales analytics, regional performance tracking, and product-level insights.
 
+Preview:Sales_Performance.PNG
+
 🎯 Overview
 
 The Sales Performance Dashboard is a data visualization solution designed to provide actionable insights into sales operations. 
